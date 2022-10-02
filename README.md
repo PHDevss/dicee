@@ -17,7 +17,7 @@
 <h2>:file_folder: Acess to the project</h2>
 
 <p>You can access the project files by clicking <a href="https://github.com/PHDevss/dicee">here</a>.</p> 
-<p>And you can preview the project here <a href="https://phdevss.github.io/dicee" target="_blank"">here</a>.</p> 
+<p>And you can preview the project here <a href="https://phdevss.github.io/dicee" target="_blank">here</a>.</p> 
 <h4 align="center"> 
   🚧 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge" /> 🚧
 </h4>
